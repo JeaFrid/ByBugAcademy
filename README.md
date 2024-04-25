@@ -7,6 +7,13 @@ ByBug Akademi, yazılım geliştirme, grafik tasarım, yapay zeka, video düzenl
 ![ByBug Academy](https://raw.githubusercontent.com/JeaFrid/ByBugAcademy/main/assets/academyafis.png)
 
 
+## Sözleşmeler ve Kullanım Koşulları
+
+- [Gizlilik Sözleşmesi](https://github.com/JeaFrid/ByBugAcademy/blob/main/privacy_policy.md)
+- [Kullanım Koşulları](https://github.com/JeaFrid/ByBugAcademy/blob/main/terms_of_use.md)
+- [Çerez Politikası](https://github.com/JeaFrid/ByBugAcademy/blob/main/cookie_policy.md)
+
+
 
 ## Kullanım Sınıfları
 
